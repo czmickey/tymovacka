@@ -56,7 +56,7 @@ const App = () => {
 
   return (
       <div className="App">
-        <h1>Losovačka</h1>
+        <h1>Týmovačka</h1>
         {value !== "" && teams.length > 0 && (
             <>
               Celkem hráčů:{" "}
